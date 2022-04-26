@@ -8,5 +8,8 @@
     ],
     "require": {
         "monolog/monolog": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {"Greeting\\": "source/Greeting/"}
     }
 }
