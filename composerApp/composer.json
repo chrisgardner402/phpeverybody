@@ -1,0 +1,12 @@
+{
+    "name": "study/composer-app",
+    "authors": [
+        {
+            "name": "chrisgardner402",
+            "email": "chojh3308@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.5"
+    }
+}
