@@ -1,7 +1,7 @@
 <?php
 class Hi {
     function __construct() {
-        echo 'hi';
+        echo '<h1>Hi</h1>';
     }
 }
 ?>
