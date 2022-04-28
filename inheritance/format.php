@@ -1,11 +1,11 @@
 <?php
 
-interface ContractInterface
+interface ConcreateInterface
 {
     public function promiseMethod(array $param): int;
 }
 
-interface ContractInterface2
+interface ConcreateInterface2
 {
     public function promiseMethod2(array $param): int;
 }
